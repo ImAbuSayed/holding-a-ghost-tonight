@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/holding-a-ghost-tonight/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Holding A Ghost Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-a-ghost-tonight/) |
+| **Get License** | [License this song: Holding A Ghost Tonight](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/holding-a-ghost-tonight/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6eaf6529b53640ed49fecbdac159fa524b8057e707e57572b3e10b25deb97b63` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
